@@ -14,3 +14,17 @@
 #header-right {
     float: right; 
 }
+
+.footer {
+    width: 100%;
+    background-color: #000000;
+    color: #EFF1F1;
+    position: sticky;
+    bottom: 0px;
+    margin-top: 20px;
+    height: 50px;
+}
+
+.footer-wrap {
+    padding:20px;
+}
