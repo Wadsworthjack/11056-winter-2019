@@ -1,6 +1,6 @@
 .secondary-navigation {
     background-color: lightgrey;
-    min-width: 1000px;
+    min-width: 1280px;
     border: 3px solid #f9fbff;
     width: 100%;
 }
@@ -14,10 +14,6 @@
     float: left;
 }
 
-.secondary-navigation-ul {
-    
-}
-
 .secondary-navigation-ul ul {
     display: inline-block;
     padding: 30px;
@@ -27,10 +23,15 @@
 .secondary-navigation-ul ul li{
    text-decoration: underline;
     padding: 20px;
-    color: white;
 }
 
-.secondary-navigation-ul ul li:link{
+.secondary-navigation a{
+   text-decoration: underline;
+    padding: 20px;
+    color: black;
+}
+
+.secondary-navigation-ul li :link{
    color: black;
 }
 
