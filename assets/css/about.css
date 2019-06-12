@@ -1,38 +1,29 @@
 .secondary-navigation {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
     background-color: lightgrey;
-    min-width: 1280px;
-    border: 3px solid #f9fbff;
-    width: 100%;
+    color: black;
+    height: 150px;
 }
 
-.secondary-navigation-container {
- 
-}
 
 .secondary-navigation-title {
-    padding: 20px 10%;
-    float: left;
+    padding: 0px 50px;
 }
 
-.secondary-navigation-ul ul {
-    display: inline-block;
-    padding: 30px;
-    min-width: 50px;
+.secondary-navigation-ul {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0px 30px;
 }
 
-.secondary-navigation-ul ul li{
-   text-decoration: underline;
-    padding: 20px;
-}
-
-.secondary-navigation a{
-   text-decoration: underline;
-    padding: 20px;
+.secondary-navigation-ul a {
+    text-decoration: underline;
     color: black;
 }
 
-.secondary-navigation-ul li :link{
-   color: black;
+.secondary-navigation-ul a:link {
+    color: black;
 }
 
 
