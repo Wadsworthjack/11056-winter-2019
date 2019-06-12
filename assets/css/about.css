@@ -1,7 +1,7 @@
 .secondary-navigation {
     background-color: lightgrey;
     min-width: 1000px;
-    border: 3px solid white;
+    border: 3px solid #f9fbff;
     width: 100%;
 }
 
@@ -27,7 +27,13 @@
 .secondary-navigation-ul ul li{
    text-decoration: underline;
     padding: 20px;
+    color: white;
 }
+
+.secondary-navigation-ul ul li:link{
+   color: black;
+}
+
 
 
 .container-banner-image {

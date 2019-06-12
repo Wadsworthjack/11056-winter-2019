@@ -3,7 +3,7 @@
     background-color: #000000;
     height: 70px;
     top: 0px;
-    position: sticky;
+    /*position: sticky;*/
     min-width: 960px;
 }
 
@@ -11,9 +11,14 @@ nav {
     color: white;
 }
 
-nav a:visited {
-    color: white;
+.header a:visited {
     text-decoration: none;
+    color: white;
+}
+
+.header a:link {
+    text-decoration: none;
+    color: white;
 }
 
 .header-left {
