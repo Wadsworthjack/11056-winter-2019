@@ -14,13 +14,13 @@
 .content-wrap-02 {
     margin-right: auto;
     margin-left: auto;
-    width: 0%;
+    width: 120px;
     height: 150px;
     padding-top: 20px;
 }
 
 .content-wrap-02 button {
-  background-color: #4CAF50; /* Green */
+  background-color: lightgrey;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -31,6 +31,6 @@
 }
 
 .content-wrap-02 button:hover {
-    background-color: aquamarine;
+    background-color: lightslategrey;
 }
 
