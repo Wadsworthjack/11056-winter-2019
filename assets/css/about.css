@@ -38,7 +38,8 @@
 .content-container {
     margin-right: auto;
     margin-left: auto;
-    width: 960px;  
+    width: 960px;
+    padding: 20px;
 }
 
 .content-wrap-02 {
