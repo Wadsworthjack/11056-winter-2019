@@ -1,3 +1,5 @@
+/*about*/
+
 @media screen and (max-width: 600px) {
 
 .secondary-navigation {
@@ -10,6 +12,20 @@
 
 .secondary-navigation-title {
     padding: 0px 20px;
+}
+    
+.container-banner-image {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding: 0px;
+}
+
+.content-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+    padding: 20px;
 }
     
 }
