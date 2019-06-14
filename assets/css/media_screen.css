@@ -1,6 +1,12 @@
 /*about*/
 
 @media screen and (max-width: 600px) {
+    
+.header {
+
+min-width: 500px;
+
+}
 
 .secondary-navigation {
     display: grid;
@@ -14,7 +20,7 @@
     padding: 0px 20px;
 }
     
-.container-banner-image {
+.container-banner-image img {
     margin-right: auto;
     margin-left: auto;
     width: 100%;
