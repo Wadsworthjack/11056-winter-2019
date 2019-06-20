@@ -5,6 +5,10 @@
     padding: 0px;
 }
 
+.container-banner-image img {
+    width: 960px;
+}
+
 .content-container {
     margin-right: auto;
     margin-left: auto;

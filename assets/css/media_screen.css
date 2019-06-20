@@ -34,4 +34,8 @@ min-width: 450px;
     padding: 20px;
 }
     
+.container-banner-image img {
+        width: 500px;
+}
+    
 }
