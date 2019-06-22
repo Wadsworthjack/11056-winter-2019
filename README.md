@@ -15,7 +15,7 @@ The look of the website was based on a layout, that the header and footer centre
 
 The site footer hosted the site disclaimer “This website was produced by students in the Faculty of Arts & Design, University of Canberra, 2019”. 
 
-This site I opted to use classes within divs the CSS selectors along with s. This is very flexible way of working naming sections of the webpage. The page is also written using semantic HTML.
+This site I opted to use classes within divs the CSS selectors. This is very flexible way of working naming sections of the webpage. The page is also written using semantic HTML.
 
 In my thoughts online platforms are becoming new retail space with the consumption online services and portable devices increasing.  Currently technology is better and with larger capacity in hardware in smaller technology. A responsive website is a part of business nowadays to attract customer volume; and requires business resources to be put into it. Hence references and influences from business websites such as Commonwealth bank and Westpac. 
 
