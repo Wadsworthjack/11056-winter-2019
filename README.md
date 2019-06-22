@@ -21,7 +21,7 @@ In my thoughts online platforms are becoming new retail space with the consumpti
 
 @media queries allow this function to adjust to different screen sizes. Its connection with html is not as functional as you’d expect. Often code needs to be rewritten in order to achieve the desired outcome in front-end design thus problematic.
 
-We introduce in figure 1.3 a secondary navigation which was designed to navigate the content of the webpage. The point of reference was influenced by Westpac (2019 Appendix 1) and University of Sydney (2019 Appendix 2) was another example of this layout. Its easy to read and view for the user. The secondary navigation is responsive to screen size change amounts grids, or columns depending on screen size. At 600px the screen size folds to one column a common attribute of responsive websites to the change devices (Figure 1.2). The grid allows easier adjustments in screen sizes and helps automate web design.
+We introduce in figure 1.3 a secondary navigation which was designed to navigate the content of the webpage. The point of reference was influenced by Westpac (2019 Appendix 1) and University of Sydney (2019 Appendix 2) was another example of this layout. Its easy to read and view for the user. The secondary navigation is responsive to screen size change amounts grids, or columns depending on screen size. At 600px the screen size folds to one column a common attribute of responsive websites to the change in devices (Figure 1.2). The grid allows easier adjustments in screen sizes and helps automate web design.
 
 Figure 1.2: screen sizes 
 
