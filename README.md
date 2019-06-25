@@ -6,7 +6,7 @@ This project was designed with “Church Hill House” content material given; a
 Figure 1.1: basic layout. 
 
  
-
+![alt text](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/basic_layout.jpg "basic layout")
 
 
 The look of the website was based on a layout, that the header and footer centred around content. This layout is seen in figure 1.1. This gives the content undivided attention. It could be seen as a ‘paper layout’ imitating a plain piece of paper.  This is a 960px wide methodology, a standard used in front end development and design. It was designed for older computer monitors (Ennis Butler 2019) this has been replaced as of March 2017 with CSS grids (Traversy Media 2017; & CSS-Tricks 2019) with added support in browsers Chrome (including on Android), Firefox, Safari (including on iOS), Microsoft Edge and Opera. In this assignment grids was only used in the secondary page thus older HTML and CSS syntax was used in other coding (CSS-Tricks 2019). 
