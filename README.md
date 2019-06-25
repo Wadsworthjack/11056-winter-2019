@@ -38,12 +38,6 @@ Finally the float system is difficult to work with as it hard to predict where i
 Figure 1.3:  illustrator design | second page
 
 ![illustrator design](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/illustrator_design.png "illustrator design")
- 
-
-
-
-
-.
 
 
 
