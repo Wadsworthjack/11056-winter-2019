@@ -53,7 +53,7 @@ Figure 1.3:  illustrator design | second page
  
 References 
 
-Commonwealth Bank of Australia. (2019). ‘_https://www.commbank.com.au/_’. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
+Commonwealth Bank of Australia. (2019). _‘https://www.commbank.com.au/’_. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
 
 Ennis Butler, B. (2019), 11056 Front-end Web Design. Lecture. Viewed 14 June 2019 < https://uclearn.canberra.edu.au/courses/6578>
 
@@ -63,7 +63,7 @@ CSS-Tricks. (03 April 2019). ‘_A Complete Guide to Grid_’. Viewed 14 June 20
 
 The University of Sydney. (2019). ‘_Current students_’. Viewed 20 June 2019 < https://sydney.edu.au/students/ >.
 
-Westpac Banking Corporation. (2019). ‘_https://www.westpac.com.au/_’. Viewed 05 June 2019 <https://www.westpac.com.au/ >.
+Westpac Banking Corporation. (2019). _‘https://www.westpac.com.au/’_. Viewed 05 June 2019 <https://www.westpac.com.au/ >.
 
 
 Appendix
