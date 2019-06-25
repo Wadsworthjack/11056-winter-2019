@@ -6,7 +6,7 @@ This project was designed with “Church Hill House” content material given; a
 Figure 1.1: basic layout. 
 
  
-
+![basic layout](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/basic_layout.jpg "basic layout")
 
 
 The look of the website was based on a layout, that the header and footer centred around content. This layout is seen in figure 1.1. This gives the content undivided attention. It could be seen as a ‘paper layout’ imitating a plain piece of paper.  This is a 960px wide methodology, a standard used in front end development and design. It was designed for older computer monitors (Ennis Butler 2019) this has been replaced as of March 2017 with CSS grids (Traversy Media 2017; & CSS-Tricks 2019) with added support in browsers Chrome (including on Android), Firefox, Safari (including on iOS), Microsoft Edge and Opera. In this assignment grids was only used in the secondary page thus older HTML and CSS syntax was used in other coding (CSS-Tricks 2019). 
@@ -25,8 +25,7 @@ We introduce in figure 1.3 a secondary navigation which was designed to navigate
 
 Figure 1.2: screen sizes 
 
- 
-
+ ![Screen sizes](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/screen_sizes.jpg "Screen sizes")
 
 Source: cited Butler. (2019). University of Canberra. https://uc-design.github.io/11056-wit-2019/module-4/responsive-1/
 
@@ -38,12 +37,7 @@ Finally the float system is difficult to work with as it hard to predict where i
 
 Figure 1.3:  illustrator design | second page
 
- 
-
-
-
-
-.
+![illustrator design](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/illustrator_design.png "illustrator design")
 
 
 
@@ -51,25 +45,27 @@ Figure 1.3:  illustrator design | second page
 
 
  
-References 
 
-Commonwealth Bank of Australia. (2019). ‘https://www.commbank.com.au/’. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
+__References__
+
+Commonwealth Bank of Australia. (2019). _‘https://www.commbank.com.au/’_. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
 
 Ennis Butler, B. (2019), 11056 Front-end Web Design. Lecture. Viewed 14 June 2019 < https://uclearn.canberra.edu.au/courses/6578>
 
-CSS-Tricks. (03 April 2019). ‘A Complete Guide to Grid’. Viewed 14 June 2019 <https://css-tricks.com/snippets/css/complete-guide-grid/>
+CSS-Tricks. (03 April 2019). ‘_A Complete Guide to Grid_’. Viewed 14 June 2019 <https://css-tricks.com/snippets/css/complete-guide-grid/>
 
-‘CSS Grid Layout Crash Course’. (01 August 2017). Traversy Media. Youtube. Viewed 14 June 2019 < https://www.youtube.com/watch?v=jV8B24rSN5o&t=937s>
+‘_CSS Grid Layout Crash Course_’. (01 August 2017). Traversy Media. Youtube. Viewed 14 June 2019 < https://www.youtube.com/watch?v=jV8B24rSN5o&t=937s>
 
-The University of Sydney. (2019). ‘Current students’. Viewed 20 June 2019 < https://sydney.edu.au/students/ >.
+The University of Sydney. (2019). ‘_Current students_’. Viewed 20 June 2019 < https://sydney.edu.au/students/ >.
 
-Westpac Banking Corporation. (2019). ‘https://www.westpac.com.au/’. Viewed 05 June 2019 <https://www.westpac.com.au/ >.
+Westpac Banking Corporation. (2019). _‘https://www.westpac.com.au/’_. Viewed 05 June 2019 <https://www.westpac.com.au/ >.
 
 
-Appendix
+__Appendix__
 
 1. Appendix | Westpac group
 
+![appendix westpac](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/appendix_westpac.png "appendix westpac")
  
 Source: Westpac (2019) https://www.westpac.com.au/ 
 
@@ -77,7 +73,7 @@ Source: Westpac (2019) https://www.westpac.com.au/
 
 2. Appendix | University of Sydney
 
- 
+![appendix sydney_university](https://github.com/Wadsworthjack/11056-winter-2019/tree/master/assets/images/github/appendix_sydney_university.png "appendix sydney university")
 
 Source: The University of Sydney (2019) https://sydney.edu.au/students/ 
 
