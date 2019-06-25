@@ -45,7 +45,8 @@ Figure 1.3:  illustrator design | second page
 
 
  
-References 
+
+__References__
 
 Commonwealth Bank of Australia. (2019). _‘https://www.commbank.com.au/’_. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
 
