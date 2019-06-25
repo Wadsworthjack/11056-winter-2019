@@ -53,7 +53,7 @@ Figure 1.3:  illustrator design | second page
  
 References 
 
-Commonwealth Bank of Australia. (2019). ‘https://www.commbank.com.au/’. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
+Commonwealth Bank of Australia. (2019). ‘*https://www.commbank.com.au/*’. Viewed 05 June 2019 <https://www.commbank.com.au/ >.
 
 Ennis Butler, B. (2019), 11056 Front-end Web Design. Lecture. Viewed 14 June 2019 < https://uclearn.canberra.edu.au/courses/6578>
 
