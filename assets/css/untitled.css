@@ -1,3 +1,5 @@
+/*main css*/
+
 @import url('https://fonts.googleapis.com/css?family=Lato|Noto+Sans+HK:500&display=swap');
 
 body {
@@ -117,6 +119,8 @@ footer {
     padding:20px;
 }
 
+/*main css end*/
+
 /*home css*/
 
 .container-banner-image {
@@ -146,7 +150,7 @@ footer {
 }
 
 .content-wrap-02 button {
-  background-color: lightgrey;
+  background-color: grey;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -157,8 +161,10 @@ footer {
 }
 
 .content-wrap-02 button:hover {
-    background-color: lightslategrey;
+    background-color: #b0b0b0;
 }
+
+/*home css end*/
 
 /*about css*/
 
@@ -221,6 +227,8 @@ footer {
  
 }
 
+/*about css end*/
+
 /*@media screen*/
 
 @media screen and (max-width: 600px) {
@@ -265,4 +273,6 @@ min-width: 450px;
 /*.container-banner-image img {
         width: 500px;
 }*/
+    
+/*@media screen end*/
     
