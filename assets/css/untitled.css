@@ -116,3 +116,153 @@ footer {
 .footer-wrap {
     padding:20px;
 }
+
+/*home css*/
+
+.container-banner-image {
+    margin-right: auto;
+    margin-left: auto;
+    width: 960px;
+    padding: 0px;
+}
+
+.container-banner-image img {
+    width: 960px;
+}
+
+.content-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 960px;
+    padding: 20px;
+}
+
+.content-wrap-02 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 120px;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.content-wrap-02 button {
+  background-color: lightgrey;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.content-wrap-02 button:hover {
+    background-color: lightslategrey;
+}
+
+/*about css*/
+
+.secondary-navigation {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    background-color: lightgrey;
+    color: black;
+    height: 180px;
+}
+
+
+.secondary-navigation-title {
+    padding: 0px 50px;
+}
+
+.secondary-navigation-ul {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0px 30px;
+}
+
+.secondary-navigation-ul li{
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.secondary-navigation-ul a {
+    text-decoration: underline;
+    color: black;
+}
+
+.secondary-navigation-ul a:link {
+    color: black;
+}
+
+
+
+.container-banner-image {
+    margin-right: auto;
+    margin-left: auto;
+    width: 960px;
+    padding: 0px;
+}
+
+.container-banner-image img {
+    width: 960px;
+}
+
+
+
+.content-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 960px;
+    padding: 20px;
+}
+
+.content_ul {
+ 
+}
+
+/*@media screen*/
+
+@media screen and (max-width: 600px) {
+    
+.header {
+
+min-width: 450px;
+
+}
+
+.secondary-navigation {
+    display: grid;
+    grid-template-columns:1fr;
+    background-color: lightgrey;
+    color: black;
+    height: auto;
+}
+
+.secondary-navigation-title {
+    padding: 0px 20px;
+}
+    
+.container-banner-image img {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding: 0px;
+}
+
+.content-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+    padding: 20px;
+}
+    
+.container-banner-image {
+    width: auto;
+    padding: 0px;
+}
+    
+/*.container-banner-image img {
+        width: 500px;
+}*/
+    
